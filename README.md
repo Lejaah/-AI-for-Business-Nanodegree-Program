@@ -2,4 +2,5 @@
 These are my projects for AI in Business Nanodegree sponsored by Misk Foundation - Future Seekers Program
 
 
-## Medical Image Annotation Job
+### Medical Image Annotation Job
+[Go to project](https://github.com/Lejaah/Medical-Image-Annotation-Job)
