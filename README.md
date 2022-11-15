@@ -8,4 +8,5 @@ These are my projects for AI in Business Nanodegree sponsored by Misk Foundation
 ### AutoML-Modeling 
 [Go to project](https://github.com/Lejaah/AutoML-Modeling)
 
-### 
+### AI-Product-Business-Proposal 
+[Go to project](https://github.com/Lejaah/AI-Product-Business-Proposal)
