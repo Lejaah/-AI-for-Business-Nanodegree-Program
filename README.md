@@ -4,3 +4,8 @@ These are my projects for AI in Business Nanodegree sponsored by Misk Foundation
 
 ### Medical Image Annotation Job
 [Go to project](https://github.com/Lejaah/Medical-Image-Annotation-Job)
+
+### AutoML-Modeling 
+[Go to project](https://github.com/Lejaah/AutoML-Modeling)
+
+### 
